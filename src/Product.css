@@ -1,0 +1,13 @@
+.Product {
+  border: 2px solid white;
+  border-radius: 14px;
+  margin-bottom: 20px;
+  margin-left: 25px;
+  width: 280px;
+  height: 185px;
+  transition: 0.4s;
+}
+
+.Product:hover {
+  transform: scale(1.1);
+}
